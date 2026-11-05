@@ -34,4 +34,4 @@ Lab 2 Git
 
 ![locally](delete-tag-locally.png)
 
-![remotely](<![Alt text](https://user-images.githubusercontent.com/xxxx/yyyy.png)>)
+![remotely](delete-tag-remotely.png)
