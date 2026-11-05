@@ -1,5 +1,4 @@
-
-# Lab 2 Git
+Lab 2 Git
 
 ## Questions:
 
@@ -16,3 +15,23 @@
    1. git stash
 
    ![stash](stash.png)
+
+---
+
+3. Create an annotated tag with tagname (v1.7) .
+
+![tag](tag.png)
+
+---
+
+4. Tell me how to list tags
+
+![tag list](list-tag.png)
+
+---
+
+5. Tell me how to delete tag locally and remotely.
+
+![locally](delete-tag-locally.png)
+
+![remotely](<![Alt text](https://user-images.githubusercontent.com/xxxx/yyyy.png)>)
